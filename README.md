@@ -8,7 +8,7 @@ The purpose of this project is to understand how VBS can help us with a complex 
 
 We were able to determine from the analysis that the only two stocks were viable ENPH that had a return of 81.9% and RUN which had a return of 84.0%. DQ turns out to be not a viable investment and perhaps one of the least viable with a loss of 62.6 percent.
 
-
+https://github.com/wallaceportia/Module2_VBA_Challenge/blob/main/VBA_Stocks_Performance.png
 
 
 
@@ -19,3 +19,7 @@ Three advantages of refactoring a code is that, firstly, it makes the code easie
 For this project using the original there were more steps and I felt that it was easier to follow in terms of the fact that we used two different iterators for differnt purposes.  We used the iterator (i) to loop throught the tickers and we used the iterator j to loop through the entire sheet.  Therefore if an error was made in one area of this code it was easier to find.  However the code took longer to run, in 2017 it took 78262.96 seconds to run and in 2018 it took 78300.4 seconds to run.
 
 When the code was refactored there was less steps, my personal experience was that it was more difficult to debug. However the code was definately more effiecient in running and this was evident in that in 2017 it took only 0.0859375 seconds to return the value and in 2018 it took 0.09375 seconds the value. It can therefore be concluded that the refactoring is causing the code to use  
+
+2017 Runtime
+
+
