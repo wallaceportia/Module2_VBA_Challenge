@@ -6,9 +6,10 @@ The purpose of this project is to understand how VBS can help us with a complex 
 
 ##Results
 
-We were able to determine from the analysis that the only two stocks were viable ENPH that had a return of 81.9% and RUN which had a return of 84.0%. DQ turns out to be not a viable invest and perhaps one of the least viable with a loss of 62.6 percent.
+We were able to determine from the analysis that the only two stocks were viable ENPH that had a return of 81.9% and RUN which had a return of 84.0%. DQ turns out to be not a viable investment and perhaps one of the least viable with a loss of 62.6 percent.
 
-![]DABC-CU.resources.VBA_Challenge_2017.png
+
+
 
 
 ##Advantages and Disadvantages of refactoring code 
