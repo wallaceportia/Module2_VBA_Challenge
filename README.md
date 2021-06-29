@@ -8,7 +8,7 @@ The purpose of this project is to understand how VBS can help us with a complex 
 
 We were able to determine from the analysis that the only two stocks were viable ENPH that had a return of 81.9% and RUN which had a return of 84.0%. DQ turns out to be not a viable investment and perhaps one of the least viable with a loss of 62.6 percent.
 
-https://github.com/wallaceportia/Module2_VBA_Challenge/blob/main/VBA_Stocks_Performance.png
+![VBA Stocks Performance](https://github.com/wallaceportia/Module2_VBA_Challenge/blob/main/VBA_Stocks_Performance.png)
 
 
 
